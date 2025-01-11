@@ -1,0 +1,8 @@
+Product,Cost Category,Cost Description,Amount (USD),GL Account Code,Transaction Date,Contribution (%)
+Personal Loan,Direct Cost,Interest Paid,50000,4110,2024-12-01,37.878787878787875
+Personal Loan,Indirect Cost,Marketing Campaign,5000,5120,2024-12-02,3.787878787878788
+Personal Loan,Fixed Cost,Loan Processing Software,15000,5310,2024-12-03,11.363636363636363
+Credit Card,Variable Cost,Payment Processing Fee,2000,4120,2024-12-04,1.5151515151515151
+Credit Card,Direct Cost,Cashback/Rewards Expense,10000,4130,2024-12-05,7.575757575757576
+Business Loan,Indirect Cost,Branch Operating Expense,20000,5130,2024-12-06,15.151515151515152
+Business Loan,Fixed Cost,Trade Finance Platform,30000,5320,2024-12-07,22.727272727272727
