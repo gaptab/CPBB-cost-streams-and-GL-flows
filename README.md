@@ -2,6 +2,8 @@
 ![alt text](https://github.com/gaptab/CPBB-cost-streams-and-GL-flows/blob/main/Visualization%20using%20matplotlib.png)
 ![alt text](https://github.com/gaptab/CPBB-cost-streams-and-GL-flows/blob/main/Visualization%202%20using%20matplotlib.png)
 ![alt text](https://github.com/gaptab/CPBB-cost-streams-and-GL-flows/blob/main/Visualization%20using%20networkx.png)
+
+
 CPBB (Consumer, Private, and Business Banking) Business &amp; Products from a cost perspective, you’ll need to focus on analyzing cost streams, understanding systems used for booking, and tracing the General Ledger (GL) flow.
 
 Cost Analysis:
